@@ -1,0 +1,27 @@
+{
+  "name": "geminidata-takehome",
+  "version": "1.0.0",
+  "description": "LDIF parsing to Json graph in nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "d3-hierarchy": "^1.1.5",
+    "express": "^4.16.2",
+    "ldif": "^0.5.1",
+    "node": "^9.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethC94/geminidata-takehome.git"
+  },
+  "author": "Seth Creasman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SethC94/geminidata-takehome/issues"
+  },
+  "homepage": "https://github.com/SethC94/geminidata-takehome#readme"
+}
