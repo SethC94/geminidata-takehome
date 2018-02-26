@@ -7,5 +7,5 @@ Front end renders Node-link diagram to show topology using discrete marks for no
 
 To run back-end:
  `node app.js ../example.ldif`
-TO run front-end:
+To run front-end:
  `http-server &`
